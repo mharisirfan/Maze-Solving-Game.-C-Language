@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552129484 source:c:\users\hp\documents\codeblocks\c\gamelabyrinthworkinginc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1552157335 source:c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\project 1\miniprojectmuhammadharisirfan\gamelabyrinthworkinginc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
